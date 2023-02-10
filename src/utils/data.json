@@ -1,0 +1,169 @@
+
+[
+    {
+        "id": 1,
+        "cover": "../img/Aiony-Haust-placeholder.webp",
+        "title": "Aiony Haust",
+        "slug": "aiony-haust",
+        "color": "#8b8b75",
+        "image1": "../img/Aiony-Haust-1.webp",
+        "image2": "../img/Aiony-Haust-2.webp",
+        "image3": "../img/Aiony-Haust-3.webp",
+        "image4": "../img/Aiony-Haust-placeholder.webp"
+    },
+    {
+        "id": 2,
+        "cover": "../img/martino-pietropoli-placeholder.webp",
+        "title": "Martino Pietropoli",
+        "slug": "martino-pietropoli",
+        "color": "#f0e4d2",
+        "image1": "../img/martino-pietropoli-1.webp",
+        "image2": "../img/martino-pietropoli-2.webp",
+        "image3": "../img/martino-pietropoli-3.webp",
+        "image4": "../img/martino-pietropoli-placeholder.webp"
+    }, 
+    {
+        "id": 3,
+        "cover": "../img/david-hofmann-placeholder.webp",
+        "title": "David Hofmann",
+        "slug": "david-hofmann",
+        "color": "#A45C40",
+        "image1": "../img/david-hofmann-1.webp",
+        "image2": "../img/david-hofmann-2.webp",
+        "image3": "../img/david-hofmann-3.webp",
+        "image4": "../img/david-hofmann-placeholder.webp"
+    },
+    {
+        "id": 4,
+        "cover": "../img/jovan-vasiljevic-placeholder.webp",
+        "title": "Jovan Vasiljevic",
+        "slug": "jovan-vasiljevic",
+        "color": "#B5E5CF",
+        "image1": "../img/jovan-vasiljevic-1.webp",
+        "image2": "../img/jovan-vasiljevic-2.webp",
+        "image3": "../img/jovan-vasiljevic-3.webp",
+        "image4": "../img/jovan-vasiljevic-placeholder.webp"
+    }, 
+    {
+        "id": 5,
+        "cover": "../img/jabari-timothy-placeholder.webp",
+        "title": "Jabari Timothy",
+        "slug": "jabari-timothy",
+        "color": "#fccb00",
+        "image1": "../img/jabari-timothy-1.webp",
+        "image2": "../img/jabari-timothy-2.webp",
+        "image3": "../img/jabari-timothy-3.webp",
+        "image4": "../img/jabari-timothy-placeholder.webp"
+    },
+    {
+        "id": 6,
+        "cover": "../img/lance-reis-placeholder.webp",
+        "title": "Lance Reis",
+        "slug": "lance-reis",
+        "color": "#cf9a68",
+        "image1": "../img/lance-reis-1.webp",
+        "image2": "../img/lance-reis-2.webp",
+        "image3": "../img/lance-reis-3.webp",
+        "image4": "../img/lance-reis-placeholder.webp"
+
+    },
+    {
+        "id": 7,
+        "cover": "../img/raphael-lovaski-placeholder.webp",
+        "title": "Raphael Lovaski",
+        "slug": "raphael-lovaski",
+        "color": "#92c6c5",
+        "image1": "../img/raphael-lovaski-1.webp",
+        "image2": "../img/raphael-lovaski-2.webp",
+        "image3": "../img/raphael-lovaski-placeholder.webp",
+        "image4": "../img/raphael-lovaski-3.webp"
+    },
+    {
+        "id": 8,
+        "cover": "../img/agung-pratamah-placeholder.webp",
+        "title": "Agung Pratamah",
+        "slug": "agung-pratamah",
+        "color": "#E4B7A0",
+        "image1": "../img/agung-pratamah-1.webp",
+        "image2": "../img/agung-pratamah-2.webp",
+        "image3": "../img/agung-pratamah-3.webp",
+        "image4": "../img/agung-pratamah-placeholder.webp"
+    },
+    {
+        "id": 9,
+        "cover": "../img/prince-akachi-placeholder.webp",
+        "title": "Prince Akachi",
+        "slug": "prince-akachi",
+        "color": "#a4a8b4",
+        "image1": "../img/prince-akachi-1.webp",
+        "image2": "../img/prince-akachi-2.webp",
+        "image3": "../img/prince-akachi-3.webp",
+        "image4": "../img/prince-akachi-placeholder.webp"
+    },
+    {
+        "id": 10,
+        "cover": "../img/jimmy-fermin-placeholder.webp",
+        "title": "Jimmy Fermin",
+        "slug": "jimmy-fermin",
+        "color": "#cbc5b5",
+        "image1": "../img/jimmy-fermin-1.webp",
+        "image2": "../img/jimmy-fermin-2.webp",
+        "image3": "../img/jimmy-fermin-3.webp",
+        "image4": "../img/jimmy-fermin-placeholder.webp"
+    },
+    {
+        "id": 11,
+        "cover": "../img/christopher-campbell-placeholder.webp",
+        "title": "Christopher C.",
+        "slug": "christopher-campbell",
+        "color": "#BACC81",
+        "image1": "../img/christopher-campbell-1.webp",
+        "image2": "../img/christopher-campbell-2.webp",
+        "image3": "../img/christopher-campbell-3.webp",
+        "image4": "../img/christopher-campbell-placeholder.webp"
+    },
+    {
+        "id": 12,
+        "cover": "../img/sobhan-joodi-placeholder.webp",
+        "title": "Sobhan Joodi",
+        "slug": "sobhan-joodi",
+        "color": "#bf6017",
+        "image1": "../img/sobhan-joodi-1.webp",
+        "image2": "../img/sobhan-joodi-2.webp",
+        "image3": "../img/sobhan-joodi-3.webp",
+        "image4": "../img/sobhan-joodi-placeholder.webp"
+    },
+    {
+        "id": 13,
+        "cover": "../img/abazie-uchenna-placeholder.webp",
+        "title": "Abazie Uchenna",
+        "slug": "abazie-uchenna",
+        "color": "#FCB5AC",
+        "image1":  "../img/abazie-uchenna-1.webp",
+        "image2":  "../img/abazie-uchenna-2.webp",
+        "image3":  "../img/abazie-uchenna-3.webp",
+        "image4":  "../img/abazie-uchenna-placeholder.webp"
+    },
+    {
+        "id": 14,
+        "cover": "../img/boluwatife-oguns-placeholder.webp",
+        "title": "Boluwatife Oguns",
+        "slug": "boluwatife-oguns",
+        "color": "#78c8a8",
+        "image1": "../img/boluwatife-oguns-1.webp",
+        "image2": "../img/boluwatife-oguns-2.webp",
+        "image3": "../img/boluwatife-oguns-3.webp",
+        "image4": "../img/boluwatife-oguns-placeholder.webp"
+    },
+    {
+        "id": 15,
+        "cover": "../img/muhammad-taha-ibrahim-placeholder.webp",
+        "title": "Muhammad-taha",
+        "slug": "muhammad-taha",
+        "color": "#c8c878",
+        "image1": "../img/muhammad-taha-ibrahim-1.webp",
+        "image2": "../img/muhammad-taha-ibrahim-2.webp",
+        "image3": "../img/muhammad-taha-ibrahim-3.webp",
+        "image4": "../img/muhammad-taha-ibrahim-placeholder.webp"
+    }
+]

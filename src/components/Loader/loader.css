@@ -1,0 +1,150 @@
+.full-loader-white {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    z-index: 40;
+    color: white;
+    font-size: 4rem;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    justify-content: center;
+    /* pointer-events: none; */
+}
+
+.full-loader-black {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    z-index: 40;
+    color: black;
+    font-size: 4rem;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    justify-content: center;
+    /* pointer-events: none; */
+}
+
+@media screen and (max-width: 768px) {
+    .full-loader-white {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        background-color: black;
+        z-index: 40;
+        color: white;
+        font-size: 2rem;
+        text-transform: capitalize;
+        display: flex;
+        align-items: center;
+        font-weight: 500;
+        justify-content: center;
+        /* pointer-events: none; */
+    }
+    
+    .full-loader-black {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        background-color: black;
+        z-index: 40;
+        color: black;
+        font-size: 2rem;
+        text-transform: capitalize;
+        display: flex;
+        align-items: center;
+        font-weight: 500;
+        justify-content: center;
+        /* pointer-events: none; */
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .full-loader-white {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        background-color: black;
+        z-index: 40;
+        color: white;
+        font-size: 1.5rem;
+        text-transform: capitalize;
+        display: flex;
+        align-items: center;
+        font-weight: 500;
+        justify-content: center;
+        /* pointer-events: none; */
+    }
+    
+    .full-loader-black {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        background-color: black;
+        z-index: 40;
+        color: black;
+        font-size: 1.5rem;
+        text-transform: capitalize;
+        display: flex;
+        align-items: center;
+        font-weight: 500;
+        justify-content: center;
+        /* pointer-events: none; */
+    }
+}
+
+
+.loader-text-black {
+    z-index: 10;
+    color: black;
+}
+
+.loader-text-white {
+    z-index: 10;
+    color: white;
+}
+
+.big-title-text {
+    border: 0px solid red;
+}
+
+.text {
+    display: flex;
+    margin: 0 0;
+    font-size: 4rem;
+    word-spacing: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .text {
+        display: flex;
+        margin: 0 0;
+        font-size: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .text {
+        display: flex;
+        margin: 0 0;
+        font-size: 1.5rem;
+    }
+}
