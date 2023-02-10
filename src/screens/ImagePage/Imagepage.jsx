@@ -27,7 +27,7 @@ const Imagepage = () => {
 
   const [containerWidth, setContainerWidth] = useState();
 
-  const [seconds, setSeconds] = useState(30);
+  const [seconds, setSeconds] = useState(32);
 
   const [bool, setBool] = useState(false);
 
@@ -171,7 +171,7 @@ const Imagepage = () => {
 
       await nextControls.start({
         y: '-105vh',
-        transition: {type: 'spring', ease: 'easeInOut', duration: 4, delay: .25}
+        transition: {type: 'spring', ease: 'easeInOut', duration: 5, delay: .75}
       })
       .then(() => {
         //refresh = setRefresh(!refresh);
