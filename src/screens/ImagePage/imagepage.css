@@ -14,6 +14,7 @@
     display: flex;
     overflow-x: visible;
     width: 100%;
+    align-items: center;
 }
 
 @media screen and (max-width: 1023px) {
@@ -34,8 +35,8 @@
 
 @media screen and (max-width: 768px) {
     .image-page-img {
-        width: 35%;
-        height: fit-content;
+        width: 50%;
+        height: 50vh;
         margin: 0 15vw;
     }
 }
@@ -43,7 +44,7 @@
 @media screen and (max-width: 650px) {
     .image-page-img {
         width: 40%;
-        height: fit-content;
+        height: 40vh;
         margin: 0 15vw;
     }
 }
@@ -51,7 +52,7 @@
 @media screen and (max-width: 550px) {
     .image-page-img {
         width: 45%;
-        height: fit-content;
+        height: 45vh;
         margin: 0 15vw;
     }
 }
@@ -59,7 +60,7 @@
 @media screen and (max-width: 450px) {
     .image-page-img {
         width: 75%;
-        height: fit-content;
+        height: 50vh;
         margin: 0 15vw;
     }
 }
@@ -67,7 +68,7 @@
 @media screen and (max-width: 350px) {
     .image-page-img {
         width: 80%;
-        height: fit-content;
+        height: 50vh;
         margin: 0 15vw;
     }
 }
@@ -75,7 +76,7 @@
 @media screen and (max-width: 300px) {
     .image-page-img {
         width: 90%;
-        height: fit-content;
+        height: 50vh;
         margin: 0 15vw;
     }
 }
@@ -108,37 +109,6 @@
     margin: auto 0;
     position: relative;
 }
-
-/* .button-box {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin: auto 0;
-    border: 1px solid black;
-    outline: none;
-    position: relative;
-} */
-
-/* .next-button {
-    background-color: white;
-    outline: none;
-    border: none;
-    color: black;
-    border: 1px solid black;
-    width: 10rem;
-    height: 4rem;
-} */
-
-/* .button-box-1 {
-    position: relative;
-    background-color: #000000;
-    outline: none;
-    border: none;
-    width: 20rem;
-    height: 2.5rem;
-    border-radius: 0em;
-    margin-top: 2em;
-} */
 
 .next-loader {
     position: absolute;
@@ -222,7 +192,7 @@
 
     .arrow-box-imagepage-small {
         position: absolute;
-        top: 2%;
+        top: 15%;
         left: 2%;
         width: max-content;
         height: max-content;
@@ -230,6 +200,20 @@
         justify-content: space-between;
         align-items: center;
         background-color: #777777;
+        z-index: 2;
+    }
+
+    .arrow-right-up-box {
+        position: absolute;
+        top: 13%;
+        right: 1%;
+        width: max-content;
+        height: 5rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: transparent;
+        cursor: pointer;
         z-index: 2;
     }
     
